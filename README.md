@@ -6,7 +6,7 @@
 
 <img src="http://static.wixstatic.com/media/3a4f89_b48cbeddd4e14a37bd46037a0a4b9f28~mv2.jpg/v1/fill/w_430,h_352,al_c,q_80,usm_1.20_1.00_0.01/3a4f89_b48cbeddd4e14a37bd46037a0a4b9f28~mv2.jpg" alt="2">
 
-<img src="https://s11.postimg.org/5q066318z/image.jpg" alt="4"
+<img src="https://s11.postimg.org/5q066318z/image.jpg" alt="4">
 
 The Physical Web is an effort to extend the superpower of the web - the URL - to everyday physical objects. Our premise is that you should be able to walk up to any “smart” physical object (e.g. a vending machine, a poster, a toy, a bus stop, a rental car) and interact with it without first downloading an app. The user experience of smart objects should be much like links in a web browser, just tap and use.
 
